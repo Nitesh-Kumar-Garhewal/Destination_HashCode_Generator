@@ -1,0 +1,20 @@
+{
+  "key1": "value1",
+  "nested": {
+    "key2": "value2",
+    "destination": "Tokyo"
+  },
+  "array": [
+    {
+      "key3": "value3"
+    },
+    {
+      "destination": "Paris"
+    }
+  ],
+  "key4": {
+    "subkey": {
+      "destination": "New York"
+    }
+  }
+}
